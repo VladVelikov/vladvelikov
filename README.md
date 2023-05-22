@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi folks 👋
+```sh
+✨Still looking for knowledge here✨
+Meantime - Glad to help - of you need any😄
+```
 
 <!--
 **VladVelikov/vladvelikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
