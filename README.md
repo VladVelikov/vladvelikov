@@ -1,6 +1,6 @@
 ### Hi folks 👋
 ```sh
-✨Still looking for knowledge here✨
+✨...Hope to offer something usefull✨
 Meantime - Glad to help - of you need any😄
 ```
 
