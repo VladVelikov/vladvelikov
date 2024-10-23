@@ -1,7 +1,7 @@
 ### Hi folks 👋
 ```sh
 ✨...Hope to offer something usefull✨
-Meantime - Glad to offer help - if you need any😄
+Meantime - allways ready to help 😄
 ```
 
 <!--
